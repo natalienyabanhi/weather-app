@@ -1,5 +1,5 @@
 # Know Your Weather
-
+ 
 Know Your Weather is a web application that allows users to get weather forecasts for their location. This project utilizes the WeatherAPI to fetch and display weather data dynamically.
 
 ## Features
