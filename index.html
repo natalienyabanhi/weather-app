@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Know Your Weather</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" href="favicon.ico" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Know Your Weather</h1>
+      <form id="location-form">
+        <h3>Enter your location:</h3>
+        <input
+          type="text"
+          id="location"
+          name="location"
+          placeholder="City, State"
+          value="Cape Town"
+          required
+        />
+        <button class="button-style-1">Get Weather</button>
+      </form>
+
+      <div id="loading" class="loading">Loading...</div>
+      <div id="result"></div>
+      <div id="weather-report-parent">
+        <button id="back-button" class="button-style-1">
+          CHOOSE ANOTHER LOCATION
+        </button>
+        <br />
+        <span id="location-header">Cape Town</span>
+        <h3>Forecast for the next 5 days</h3>
+        <br />
+        <div id="weather-card-parent"></div>
+      </div>
+      <script src="script.js"></script>
+    </div>
+  </body>
+</html>
