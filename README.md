@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/cd42bac6-010e-432d-a8f8-061ab7a96f79)
 # Know Your Weather
  
 Know Your Weather is a web application that allows users to get weather forecasts for their location. This project utilizes the WeatherAPI to fetch and display weather data dynamically.
