@@ -1,4 +1,4 @@
-document 
+document  
   .getElementById("location-form")
   .addEventListener("submit", function (e) {
     e.preventDefault();
