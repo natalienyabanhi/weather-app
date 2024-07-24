@@ -1,5 +1,7 @@
 ![image](https://github.com/user-attachments/assets/cd42bac6-010e-432d-a8f8-061ab7a96f79)
+
 Know Your Weather - Your Personal Weather Companion
+
 Introduction
 Introducing "Know Your Weather" - your go-to weather app for staying informed and prepared. This sleek and intuitive web application leverages the power of the WeatherAPI to provide you with accurate, up-to-date weather forecasts for any location.
 
@@ -20,6 +22,7 @@ HTML: The backbone of the web application, providing the structure and content.
 CSS: Responsible for the stunning visual presentation and intuitive layout.
 JavaScript: Powering the dynamic functionality, such as fetching weather data and updating the UI.
 WeatherAPI: The reliable and accurate data source that powers the weather forecasts.
+
 Getting Started
 Ready to experience the ultimate weather app? Follow these simple steps to get started:
 
@@ -29,7 +32,9 @@ git clone https://github.com/natalienyabanhi/weather-app.git
 
 Navigate to the Project Directory:
 Copy
+
 cd weather-app
+
 Open the App:
 Open the index.html file in your preferred web browser, and you're all set to "Know Your Weather"!
 
